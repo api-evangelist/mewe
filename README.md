@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MeWe is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://mewe.com/
+MeWe is a social networking platform focused on privacy and user control, offering ad‑free communication, groups, and content sharing. It emphasizes no targeted ads, no spyware, and robust privacy settings, positioning itself as a next‑gen alternative to mainstream social media.
+
+**Areas:** Company · Social · Privacy · Networking · Communication
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mewe.com/)
+- [Documentation](https://mewe.com/api-docs)
+- [Getting started](https://developer.mewe.com/quickstart)
+- [API reference](https://mewe.com/api-docs)
+- [Support](https://support.mewe.com/hc/en-us)
+- [Terms of service](https://mewe.com/terms)
+- [Privacy policy](https://mewe.com/privacy)
+- [GitHub](https://github.com/sgrouples/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mewe/](https://apis.io/providers/mewe/).
